@@ -5,7 +5,19 @@ Ryan
 Gique
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Pasinee Wasupan
 =======
 chanakarn poosanapattara
 >>>>>>> 60c0eae348bd07b95a14386c0a4ec1a31b78d3a9
+=======
+
+Pranitan
+
+chanakarn poosanapattara
+
+
+chanakarn poosanapattara
+wutipat khamnuansin
+
+>>>>>>> ef62cd39e5b5782934362546336a826324b8cf9b
