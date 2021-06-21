@@ -12,5 +12,9 @@ chanakarn poosanapattara
 
 chanakarn poosanapattara
 wutipat khamnuansin
+<<<<<<< HEAD
 
 vitas jun-urairat
+=======
+Natchanannnnnnnnnnnnnnn Rungsinjirachat
+>>>>>>> ec1c066db96a510c94ffcc4396566f2b45a7c7bd
