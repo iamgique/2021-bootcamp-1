@@ -3,7 +3,14 @@ BootCamp
 
 Ryan
 Gique
+<<<<<<< HEAD
+Pitchayapa
+=======
 
+<<<<<<< HEAD
+chanakarn poosanapattara
+>>>>>>> 7409ba02c79eda6091a0850740e843dc535473d6
+=======
 
 Pranitan
 
@@ -14,8 +21,15 @@ chanakarn poosanapattara
 wutipat khamnuansin
 Natchanannnnnnnnnnnnnnn Rungsinjirachat
 
+<<<<<<< HEAD
+>>>>>>> 6fc6d2c46c95841a1a1a39ea164fb1323c1c0076
+=======
 Kantapon
 
 wachirawit onchet
+<<<<<<< HEAD
 
 Pornkanok Lkitvatanavlee
+=======
+>>>>>>> 5c4caf62cd0eb317b193f0d5b937ec9730d2bfc8
+>>>>>>> e43454e83624082d99d89f5cc0e4744bd6c2e8c2
