@@ -7,5 +7,17 @@ Gique
 Pitchayapa
 =======
 
+<<<<<<< HEAD
 chanakarn poosanapattara
 >>>>>>> 7409ba02c79eda6091a0850740e843dc535473d6
+=======
+
+Pranitan
+
+chanakarn poosanapattara
+
+
+chanakarn poosanapattara
+wutipat khamnuansin
+
+>>>>>>> 6fc6d2c46c95841a1a1a39ea164fb1323c1c0076
