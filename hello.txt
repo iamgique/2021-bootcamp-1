@@ -19,5 +19,12 @@ chanakarn poosanapattara
 
 chanakarn poosanapattara
 wutipat khamnuansin
+Natchanannnnnnnnnnnnnnn Rungsinjirachat
 
+<<<<<<< HEAD
 >>>>>>> 6fc6d2c46c95841a1a1a39ea164fb1323c1c0076
+=======
+Kantapon
+
+wachirawit onchet
+>>>>>>> 5c4caf62cd0eb317b193f0d5b937ec9730d2bfc8
