@@ -4,63 +4,34 @@ BootCamp
 Ryan
 Gique
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Prachaya Somcheo
 =======
 <<<<<<< HEAD
 Pitchayapa
 =======
+=======
+>>>>>>> 275943ea6b94c76e665776022d1ef271788d72bd
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+Pitchayapa
 Pasinee Wasupan
-=======
 chanakarn poosanapattara
->>>>>>> 60c0eae348bd07b95a14386c0a4ec1a31b78d3a9
-=======
-chanakarn poosanapattara
->>>>>>> 7409ba02c79eda6091a0850740e843dc535473d6
->>>>>>> e43454e83624082d99d89f5cc0e4744bd6c2e8c2
-=======
-
 Pranitan
-
-chanakarn poosanapattara
-
-
+Pitchayapa
+Nattapon Napasai
 chanakarn poosanapattara
 wutipat khamnuansin
+Pranitan
 Natchanannnnnnnnnnnnnnn Rungsinjirachat
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> ef62cd39e5b5782934362546336a826324b8cf9b
-=======
 Kantapon
->>>>>>> 131bbd98474dba519eea0e8cc064860f281ab368
-=======
->>>>>>> 6fc6d2c46c95841a1a1a39ea164fb1323c1c0076
->>>>>>> e43454e83624082d99d89f5cc0e4744bd6c2e8c2
-=======
-Kantapon
-
 wachirawit onchet
-<<<<<<< HEAD
-<<<<<<< HEAD
-
 Pornkanok Lkitvatanavlee
-=======
->>>>>>> 5c4caf62cd0eb317b193f0d5b937ec9730d2bfc8
->>>>>>> e43454e83624082d99d89f5cc0e4744bd6c2e8c2
-=======
->>>>>>> e36ef8db1a3baf8c5bd21637ed4b2e381df95049
-=======
->>>>>>> 5c4caf62cd0eb317b193f0d5b937ec9730d2bfc8
->>>>>>> e43454e83624082d99d89f5cc0e4744bd6c2e8c2
 vitas jun-urairat
+<<<<<<< HEAD
 >>>>>>> 58f0885d26bc620c1917be392c4bf9c48385e000
 >>>>>>> 67ad6a23544c6fb6dd96b162e1d2a1c7018e8998
 
 Prachaya Somcheo
+=======
+>>>>>>> 275943ea6b94c76e665776022d1ef271788d72bd
